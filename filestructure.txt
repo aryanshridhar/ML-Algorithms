@@ -1,0 +1,16 @@
+.
+├── Data-Preprocessing
+│   ├── Data.csv
+│   └── Data-Preprocessing.ipynb
+├── filestructure.txt
+├── Image-Classification
+│   └── Image Classification Using CNN.ipynb
+├── Pytorch-Linear-Regression
+│   ├── Multiple-Linear-Regression
+│   │   └── Multiple Linear Regression With Inbuilt Fns.ipynb
+│   └── Simple-Linear-Regression
+│       └── Linear Regression.ipynb
+└── Pytorch-Logistic-Regression
+    └── Logistic Regression.ipynb
+
+6 directories, 7 files
